@@ -6,5 +6,63 @@
 	"feed_url": "https://stephenanfield.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/31/letting-people-know.html",
+				
+				"content_html": "<p>Letting people know how much you appreciate them will never go out of style.</p>\n",
+				"content_text": "Letting people know how much you appreciate them will never go out of style.\n",
+				"date_published": "2023-08-31T06:18:46-04:00",
+				"url": "https://stephenanfield.com/2023/08/31/letting-people-know.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/30/fcc-says-too.html",
+				
+				"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/\">FCC says “too bad” to ISPs complaining that listing every fee is too hard - Ars Technica</a></p>\n<blockquote>\n<p>&ldquo;Every consumer needs transparent information when making decisions about what Internet service offering makes the most sense for their family or household. No one wants to be hit with charges they didn&rsquo;t ask for or they did not expect,&rdquo; FCC Chairwoman Jessica Rosenworcel said.</p>\n</blockquote>\n",
+				"content_text": "[FCC says “too bad” to ISPs complaining that listing every fee is too hard - Ars Technica](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)\n\n>\"Every consumer needs transparent information when making decisions about what Internet service offering makes the most sense for their family or household. No one wants to be hit with charges they didn't ask for or they did not expect,\" FCC Chairwoman Jessica Rosenworcel said. \n",
+				"date_published": "2023-08-30T17:03:41-04:00",
+				"url": "https://stephenanfield.com/2023/08/30/fcc-says-too.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/30/sorry-im-late.html",
+				
+				"content_html": "<p>Sorry, I&rsquo;m late. Had some difficulty opening the Toaster Strudel™️ icing packet because my hands were extra lotion-y. 🙃</p>\n",
+				"content_text": "Sorry, I'm late. Had some difficulty opening the Toaster Strudel™️ icing packet because my hands were extra lotion-y. 🙃\n",
+				"date_published": "2023-08-30T08:07:58-04:00",
+				"url": "https://stephenanfield.com/2023/08/30/sorry-im-late.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/29/085108.html",
+				"title": "Bringing Braille Fun Home: LEGO® Braille Bricks on Sale for the First Time",
+				"content_html": "<p>Martine Abel-Williamson, President, <a href=\"https://worldblindunion.org/\">World Blind Union</a> <a href=\"https://www.lego.com/en-us/aboutus/news/2023/august/lego-braille-bricks-play-with-braille-?locale=en-us\">commented for LEGO®</a>:</p>\n<blockquote>\n<p>For blind and partially sighted children, and adults for that matter, it makes all the difference if they can share their journey of learning braille with the people they love the most. For the blind community, braille is not just literacy, it’s our entry to independence and inclusion into this world, and to have LEGO Braille Bricks made available for the wider public is a massive step forward to ensuring more children will want to learn braille in the first place.</p>\n</blockquote>\n<p>Accessibility in learning and play. 🧱</p>\n",
+				"content_text": "Martine Abel-Williamson, President, [World Blind Union](https://worldblindunion.org/) [commented for LEGO®](https://www.lego.com/en-us/aboutus/news/2023/august/lego-braille-bricks-play-with-braille-?locale=en-us):\n> For blind and partially sighted children, and adults for that matter, it makes all the difference if they can share their journey of learning braille with the people they love the most. For the blind community, braille is not just literacy, it’s our entry to independence and inclusion into this world, and to have LEGO Braille Bricks made available for the wider public is a massive step forward to ensuring more children will want to learn braille in the first place.\n\nAccessibility in learning and play. 🧱\n",
+				"date_published": "2023-08-29T08:51:08-04:00",
+				"url": "https://stephenanfield.com/2023/08/29/085108.html",
+				"tags": ["accessibility"]
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/28/no-one-absolutely.html",
+				
+				"content_html": "<p>no one:</p>\n<p>absolutely no one:</p>\n<p>me: The graph view of my notes looks like a bird. 🙃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "no one:\n\nabsolutely no one:\n\nme: The graph view of my notes looks like a bird. 🙃\n\n<img src=\"uploads/2023/image.png\" width=\"572\" height=\"600\" alt=\"Graph view of notes using blue dots and yellow lines that look like a bird\">\n",
+				"date_published": "2023-08-28T17:33:06-04:00",
+				"url": "https://stephenanfield.com/2023/08/28/no-one-absolutely.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/26/203330.html",
+				
+				"content_html": "<p><a href=\"https://ssir.org/articles/entry/cultures_of_healing\">Cultures of Healing - Stanford Social Innovation Review</a></p>\n<blockquote>\n<p>Prioritizing care means respecting the care seeker’s dignity, agency, and autonomy. Care-seeker choice gives patients some control over their healthcare journey, and it can improve patient access and satisfaction, particularly for marginalized people.</p>\n</blockquote>\n",
+				"content_text": "[Cultures of Healing - Stanford Social Innovation Review](https://ssir.org/articles/entry/cultures_of_healing) \n> Prioritizing care means respecting the care seeker’s dignity, agency, and autonomy. Care-seeker choice gives patients some control over their healthcare journey, and it can improve patient access and satisfaction, particularly for marginalized people.\n\n",
+				"date_published": "2023-08-26T20:33:30-04:00",
+				"url": "https://stephenanfield.com/2023/08/26/203330.html",
+				"tags": ["Public Health"]
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/08/26/is-this-thing.html",
+				
+				"content_html": "<p>Is this thing on? 🙃</p>\n",
+				"content_text": "Is this thing on? 🙃\n",
+				"date_published": "2023-08-26T20:29:21-04:00",
+				"url": "https://stephenanfield.com/2023/08/26/is-this-thing.html"
+			}
 	]
 }
