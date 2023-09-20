@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://stephenanfield.micro.blog/2023/09/20/give-people-their.html",
+				
+				"content_html": "<p>Give people their flowers while they&rsquo;re still here. 💐</p>\n",
+				"content_text": "Give people their flowers while they're still here. 💐\n",
+				"date_published": "2023-09-20T08:45:32-04:00",
+				"url": "https://stephenanfield.com/2023/09/20/give-people-their.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/09/15/this-weekend-may.html",
+				
+				"content_html": "<p>This weekend, may you get to do the things that bring you joy and make you laugh like Elmo.</p>\n",
+				"content_text": "This weekend, may you get to do the things that bring you joy and make you laugh like Elmo. \n",
+				"date_published": "2023-09-15T19:03:05-04:00",
+				"url": "https://stephenanfield.com/2023/09/15/this-weekend-may.html"
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/09/15/scientists-discover-how.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.bbc.com/news/health-66816268\">Scientists discover how brain cells die in Alzheimer’s - BBC</a></p>\n\n<p>Professor Bart De Strooper, <a href=\"https://ukdri.ac.uk/\">UK Dementia Research Institute</a>: </p>\n\n<blockquote>\n<p>For the first time, we get a clue to how and why neurons die in Alzheimer&#8217;s disease. There&#8217;s been a lot of speculation for 30&#8211;40 years, but nobody has been able to pinpoint the mechanisms. </p>\n</blockquote>\n",
+				"date_published": "2023-09-15T06:14:38-04:00",
+				"url": "https://stephenanfield.com/2023/09/15/scientists-discover-how.html",
+				"tags": ["Health"]
+			},
+			{
+				"id": "http://stephenanfield.micro.blog/2023/09/13/youre-not-too.html",
+				
+				"content_html": "<p>You&rsquo;re not too old, and it&rsquo;s not too late.</p>\n",
+				"content_text": "You're not too old, and it's not too late.\n",
+				"date_published": "2023-09-13T21:09:19-04:00",
+				"url": "https://stephenanfield.com/2023/09/13/youre-not-too.html"
+			},
+			{
 				"id": "http://stephenanfield.micro.blog/2023/09/13/excited-to-share.html",
 				
 				"content_html": "<p>Excited to share that I&rsquo;ve been selected to serve on the University of Michigan School of Social Work Curriculum Committee.</p>\n<p>Go Blue.</p>\n<!-- raw HTML omitted -->\n",
@@ -59,7 +92,7 @@
 				"id": "http://stephenanfield.micro.blog/2023/08/28/no-one-absolutely.html",
 				
 				"content_html": "<p>no one:</p>\n<p>absolutely no one:</p>\n<p>me: The graph view of my notes looks like a bird. 🙃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "no one:\n\nabsolutely no one:\n\nme: The graph view of my notes looks like a bird. 🙃\n\n<img src=\"https://cdn.uploads.micro.blog/67277/2023/image.png\" width=\"572\" height=\"600\" alt=\"Graph view of notes using blue dots and yellow lines that look like a bird\">\n",
+				"content_text": "no one:\n\nabsolutely no one:\n\nme: The graph view of my notes looks like a bird. 🙃\n\n<img src=\"uploads/2023/image.png\" width=\"572\" height=\"600\" alt=\"Graph view of notes using blue dots and yellow lines that look like a bird\">\n",
 				"date_published": "2023-08-28T17:33:06-04:00",
 				"url": "https://stephenanfield.com/2023/08/28/no-one-absolutely.html"
 			},
